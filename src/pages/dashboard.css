@@ -1,0 +1,9 @@
+@media (max-width:750px) {
+    .bas{
+        flex-direction: column;
+    }
+    .col-6.size{
+        width: 100%;
+        height: 350px;
+    }
+}
